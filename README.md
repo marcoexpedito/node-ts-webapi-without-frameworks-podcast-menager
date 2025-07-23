@@ -39,6 +39,7 @@ Tudo isso utilizando **Node.js puro**, para reforçar os fundamentos do backend.
    git clone https://github.com/marcoexpedito/node-ts-webapi-without-frameworks-podcast-menager
 
 npm install
+
 npm start
 
 ✅ Funcionalidades implementadas
