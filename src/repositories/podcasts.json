@@ -1,0 +1,27 @@
+[
+    {
+
+    "podcastName": "flow",
+    "episode": "CBUM - Flow #319",
+    "videoId": "pQSuQmUfS30",
+    "categories": ["saúde", "esporte", "bodybuilder"]
+    },
+    {
+    "podcastName": "flow",
+    "episode": "FRANCIELLE MATTOS - Flow #308",
+    "videoId": "maBHQeVBXt4",
+    "categories": ["saúde", "esporte", "bodybuilder"]
+    },
+    {
+    "podcastName": "venus",
+    "episode": "XUXA - Venus #308",
+    "videoId": "000000000",
+    "categories": ["humor"]
+    },
+    {
+    "podcastName": "Inteligencia",
+    "episode": "Ronaldo - LTDA #308",
+    "videoId": "000100000",
+    "categories": ["futebol"]
+    }
+]
